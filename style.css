@@ -1,0 +1,35 @@
+ 
+BODY{
+  font-size : 9pt;
+  font-family : "MS UI Gothic";
+  
+  
+  line-height : normal;
+  word-spacing : normal;
+  letter-spacing : normal;
+  text-decoration : none;
+  background-image : url(images/background.gif);
+  color : #ffffff;
+}
+TABLE{border-width : 0px 0px 0px 0px;
+  padding-top : 0pt;
+  padding-left : 0pt;
+  padding-right : 0pt;
+  padding-bottom : 0pt;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  
+  font-family : "MS UI Gothic";
+border-style : none none none none;}
+TD{border-width : 0px 0px 0px 0px;
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
