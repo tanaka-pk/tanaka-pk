@@ -1,16 +1,23 @@
-## Hi there 👋
+# 鉱山PK田中
 
-<!--
-**tanaka-pk/tanaka-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ultima Online（UO）の個人サイト「鉱山PK田中」の保存・復元プロジェクトです。
 
-Here are some ideas to get you started:
+旧サイト：
+`http://www17.plala.or.jp/tanaka-pk/`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Internet Archive の Wayback Machine に保存されているデータなどをもとに、
+可能な範囲で当時のサイトを復元しています。
+
+## 現在の状況
+
+復元作業中です。
+
+HTML、画像、CSS、過去の日記など、残っているデータを調査しながら順次復元しています。
+Wayback Machine に保存されていないファイルについては、推測で内容を作らず、
+確認できた資料をもとに復元する方針です。
+
+## このリポジトリについて
+
+このリポジトリは、旧サイトの保存と将来の公開を目的としています。
+
+復元が進んだ段階で GitHub Pages を利用して公開する予定です。
